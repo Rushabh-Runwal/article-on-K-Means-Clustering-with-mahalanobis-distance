@@ -1,7 +1,6 @@
 # **K-Means Clustering with Incomplete Data Using Mahalanobis Distance**
 
-## **Reserch Paper and arxiv URL
-- https://arxiv.org/abs/2411.00870
+## **Reserch Paper and arxiv URL**  https://arxiv.org/abs/2411.00870
 
 ## **Abstract**
 Effectively applying the K-means algorithm to data with missing values remains an important research
