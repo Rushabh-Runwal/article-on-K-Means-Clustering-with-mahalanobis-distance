@@ -1,5 +1,23 @@
 # **K-Means Clustering with Incomplete Data Using Mahalanobis Distance**
 
+## **Reserch Paper and arxiv URL
+- https://arxiv.org/abs/2411.00870
+
+## **Abstract**
+Effectively applying the K-means algorithm to data with missing values remains an important research
+area due to its impact on applications that rely on K-means clustering. Recent studies have shown
+that integrating imputation directly into the K-means algorithm yields superior results compared to
+handling imputation separately.
+In this work, we extend this approach by developing a unified K-means algorithm that incorporates
+Mahalanobis distances, instead of the traditional Euclidean distances, which previous research has
+shown to perform better for clusters with elliptical shapes.
+We conduct extensive experiments on synthetic datasets containing up to ten elliptical clusters, as well
+as the IRIS dataset. Using the Adjusted Rand Index (ARI) and Normalized Mutual Information (NMI),
+we demonstrate that our algorithm consistently outperforms both standalone imputation followed
+by K-means (using either Mahalanobis or Euclidean distance) and recent K-means algorithms that
+integrate imputation and clustering for handling incomplete data. These results hold across both the
+IRIS dataset and randomly generated data with elliptical clusters.
+
 ## **Overview**
 This repository contains:
 - A Python implementation of the unified K-Means algorithm enhanced with Mahalanobis distance to handle incomplete data.
