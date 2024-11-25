@@ -4,12 +4,12 @@
 This repository contains:
 - A Python implementation of the unified K-Means algorithm enhanced with Mahalanobis distance to handle incomplete data.
 - A Medium article summarizing the key concepts, algorithm, and results.
-- A presentation deck to explain the algorithm, experiments, and results visually.
+- A presentation deck to visually explain the algorithm, experiments, and results.
 
 ---
 
 ## **Abstract**
-Effectively applying the K-Means algorithm to datasets with missing values is an important research challenge. Traditional methods often separate data imputation and clustering, leading to suboptimal results. This project implements and extends the unified K-Means algorithm to incorporate **Mahalanobis distance**, which is better suited for elliptical clusters.
+Effectively applying the K-Means algorithm to datasets with missing values is an important research challenge. Traditional methods often separate data imputation and clustering, leading to suboptimal results. This project implements and extends the unified K-Means algorithm to incorporate **Mahalanobis distance**, better suited for elliptical clusters.
 
 Key contributions:
 1. Unified clustering and imputation in one framework.
@@ -29,3 +29,8 @@ Performance Metrics
 Key Findings
 - Robust to Missing Data: Achieves high ARI even with 50% missing data.
 - Better for Elliptical Clusters: Outperforms traditional K-Means in clustering non-spherical data.
+
+
+Contributors
+- Lovis Kwasi Armah(http://linkedin.com)
+- Igor Melnykov:(http://linkedin.com)
