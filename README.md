@@ -25,9 +25,6 @@ This repository contains:
 
 ---
 
-## **Abstract**
-Effectively applying the K-Means algorithm to datasets with missing values is an important research challenge. Traditional methods often separate data imputation and clustering, leading to suboptimal results. This project implements and extends the unified K-Means algorithm to incorporate **Mahalanobis distance**, better suited for elliptical clusters.
-
 Key contributions:
 1. Unified clustering and imputation in one framework.
 2. Replacement of Euclidean distance with Mahalanobis distance for improved accuracy on non-spherical clusters.
