@@ -19,9 +19,8 @@ IRIS dataset and randomly generated data with elliptical clusters.
 
 ## **Overview**
 This repository contains:
-- A Python implementation of the unified K-Means algorithm enhanced with Mahalanobis distance to handle incomplete data.
-- A Medium article summarizing the key concepts, algorithm, and results.
-- A presentation deck to visually explain the algorithm, experiments, and results.
+- [A Medium article summarizing the key concepts, algorithm, and results.](https://medium.com/@rushabh22runwal/k-means-clustering-with-incomplete-data-with-the-use-of-mahalanobis-distances-83d79aa5393b)
+- [A presentation deck to visually explain the algorithm, experiments, and results.](https://www.slideshare.net/slideshow/k-means-clustering-with-incomplete-data-_using-mahalanobis-distance-pptx/273656228)
 
 ---
 
@@ -46,5 +45,5 @@ Key Findings
 
 
 Contributors
-- Lovis Kwasi Armah(http://linkedin.com)
-- Igor Melnykov:(http://linkedin.com)
+- [Lovis Kwasi Armah](https://www.linkedin.com/in/armahlovis/)
+- [Igor Melnykov](https://www.linkedin.com/in/igor-melnykov-b38789106/)
