@@ -1,5 +1,10 @@
 # **K-Means Clustering with Incomplete Data Using Mahalanobis Distance**
 
+## [Youtube Video Presentiion](https://youtu.be/_aOstSZxpeg)
+## [Medium article summarizing the key concepts, algorithm, and results.](https://medium.com/@rushabh22runwal/k-means-clustering-with-incomplete-data-with-the-use-of-mahalanobis-distances-83d79aa5393b)
+## [Presentation deck to visually explain the algorithm, experiments, and results.](https://www.slideshare.net/slideshow/k-means-clustering-with-incomplete-data-_using-mahalanobis-distance-pptx/273656228)
+
+
 ## **Reserch Paper and arxiv URL**  https://arxiv.org/abs/2411.00870
 
 ## **Abstract**
@@ -16,11 +21,6 @@ we demonstrate that our algorithm consistently outperforms both standalone imput
 by K-means (using either Mahalanobis or Euclidean distance) and recent K-means algorithms that
 integrate imputation and clustering for handling incomplete data. These results hold across both the
 IRIS dataset and randomly generated data with elliptical clusters.
-
-## **Overview**
-This repository contains:
-- [A Medium article summarizing the key concepts, algorithm, and results.](https://medium.com/@rushabh22runwal/k-means-clustering-with-incomplete-data-with-the-use-of-mahalanobis-distances-83d79aa5393b)
-- [A presentation deck to visually explain the algorithm, experiments, and results.](https://www.slideshare.net/slideshow/k-means-clustering-with-incomplete-data-_using-mahalanobis-distance-pptx/273656228)
 
 ---
 
